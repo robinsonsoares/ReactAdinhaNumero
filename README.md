@@ -1,2 +1,0 @@
-# ReactAdinhaNumero
-Created with CodeSandbox
